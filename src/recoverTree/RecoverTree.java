@@ -1,7 +1,5 @@
 package recoverTree;
 
-import jdk.nashorn.api.tree.Tree;
-
 class TreeNode {
     int val;
     TreeNode left;
