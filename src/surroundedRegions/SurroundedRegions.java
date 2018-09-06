@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /*leetcode 130
-Given a 2D board containing 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
+Given a 2D board conta-ining 'X' and 'O' (the letter O), capture all regions surrounded by 'X'.
 A region is captured by flipping all 'O's into 'X's in that surrounded region.
 For example,
 X X X X

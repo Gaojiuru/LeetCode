@@ -31,6 +31,7 @@ class Solution{
             pathSum(result, list, root.left, sum - root.val);
             pathSum(result, list, root.right, sum - root.val);
         }
+        
         list.remove(list.size() - 1);
     }
 }
